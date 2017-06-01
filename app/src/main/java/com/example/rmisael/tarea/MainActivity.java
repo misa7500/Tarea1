@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                     resultado.append("\nHora inicio"+ horaen_h+":"+horaen_m);
                     resultado.append("\nHora Salida"+ horasa_h+":"+horasa_m);
 
-                    resultado.append("\n**********Por Pagar********** " +
+                    resultado.append("\n*********Por Pagar********* " +
                             "\n************  "+ pago+"  ************" );
 
                 }
